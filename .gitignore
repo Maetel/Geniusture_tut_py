@@ -1,0 +1,9 @@
+#image files
+*.jpg
+*.png
+
+#video files
+*.mp4
+
+#.idea
+.idea/
